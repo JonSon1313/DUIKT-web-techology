@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    margin: 30px auto;
+    color: lightsalmon;
+    font-size: 32px;
+}
+.navbar {
+    background-color: rgb(51, 47, 47);
+    padding: 10px 20px;
+    font-size: 15px;
+    width: auto;
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    font-size: 15px;
+    justify-content: center;
+}
+
+.nav-links li {
+    margin: 5px 15px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    align-items: center;
+}
+
