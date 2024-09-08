@@ -15,18 +15,18 @@ h2{
 .about-section {
     padding: 10px;
     background-color: wheat;
-    margin: 20px 0;
+    margin: 20px;
     border-radius: 8px;
 }
 
 .me {
-    width: 75%;
+    width: 50%;
     margin: 20px auto;
     text-align: center; 
 }
 
 .me img {
-    max-width: 75%; 
+    width: 50%;
     height: auto; 
     border-radius: 8px; 
 }
@@ -57,5 +57,18 @@ p{
     text-decoration: none;
     align-items: center;
 }
+
+.footer  {
+    color: teal;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
+
 
 
